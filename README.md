@@ -1,5 +1,7 @@
 # Trombino Scope Documentation
 
+🚨🚨 This project was made in intent to develop my next.js competences and should not be public since there is security issues
+
 ## Author
 - Name: Alixan BALU
 - Contact: contact@alixan.dev
