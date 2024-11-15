@@ -2,7 +2,7 @@
 
 ## Author
 - Name: Alixan BALU
-- Contact: alixan.balu@etu.unistra.fr
+- Contact: contact@alixan.dev
 
 ## Description
 This project is a web application developed using Next.js, a popular JavaScript library for building client-side and server-side web applications.
